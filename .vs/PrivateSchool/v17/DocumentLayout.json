@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\controllers\\boardofdirectoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\controllers\\boardofdirectoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\boardofdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\boardofdirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\dto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\dto\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\migrations\\20241020130012_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\migrations\\20241020130012_students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\migrations\\20241020130042_boardofdirectories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\migrations\\20241020130042_boardofdirectories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\migrations\\20241020130113_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\migrations\\20241020130113_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\migrations\\20241020130159_enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\migrations\\20241020130159_enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\migrations\\20241020130222_payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\migrations\\20241020130222_payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\dto\\boardofdirectorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\dto\\boardofdirectorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020123534_BoardOfDirectories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrivateSchool\\Migrations\\20241020123534_BoardOfDirectories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020123355_Parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrivateSchool\\Migrations\\20241020123355_Parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\dto\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\dto\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\dto\\parentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\dto\\parentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\dto\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\dto\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241018003507_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrivateSchool\\Migrations\\20241018003507_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\migrations\\20241020130257_teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\migrations\\20241020130257_teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\migrations\\20241020130240_subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\migrations\\20241020130240_subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|c:\\users\\hp\\source\\repos\\privateschool\\privateschool\\migrations\\20241020130135_parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D95AAD0-0CA3-4C19-8102-3DF6A84836CA}|PrivateSchool\\PrivateSchool.csproj|solutionrelative:privateschool\\migrations\\20241020130135_parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "PrivateSchool\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:26:01.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "PrivateSchool\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:03:08.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "PrivateSchool\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:47:22.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "PrivateSchool\\Controllers\\SubjectsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:00:12.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "PrivateSchool\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:34:53.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\ParentsController.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Controllers\\ParentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\ParentsController.cs",
+              "RelativeToolTip": "PrivateSchool\\Controllers\\ParentsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowGEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:04:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "PrivateSchool\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwv2YAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:04:44.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardOfDirectoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\BoardOfDirectoriesController.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Controllers\\BoardOfDirectoriesController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Controllers\\BoardOfDirectoriesController.cs",
+              "RelativeToolTip": "PrivateSchool\\Controllers\\BoardOfDirectoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:04:38.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241020130257_Teachers.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130257_Teachers.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020130257_Teachers.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130257_Teachers.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020130257_Teachers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:02:57.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241020130240_Subjects.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130240_Subjects.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020130240_Subjects.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130240_Subjects.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020130240_Subjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:02:40.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241020130159_Enrollments.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130159_Enrollments.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020130159_Enrollments.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130159_Enrollments.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020130159_Enrollments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:01:59.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241020130135_Parents.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130135_Parents.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020130135_Parents.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130135_Parents.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020130135_Parents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:01:35.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241020130113_Employees.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130113_Employees.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020130113_Employees.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130113_Employees.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020130113_Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:01:13.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241020130042_BoardOfDirectories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130042_BoardOfDirectories.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020130042_BoardOfDirectories.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130042_BoardOfDirectories.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020130042_BoardOfDirectories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:00:42.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241020130012_Students.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130012_Students.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020130012_Students.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130012_Students.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020130012_Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:00:12.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241020123534_BoardOfDirectories.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020123534_BoardOfDirectories.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020123534_BoardOfDirectories.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020123534_BoardOfDirectories.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020123534_BoardOfDirectories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:35:34.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241020123355_Parents.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020123355_Parents.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020123355_Parents.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020123355_Parents.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020123355_Parents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:33:56.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\TeacherDto.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Dto\\TeacherDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\TeacherDto.cs",
+              "RelativeToolTip": "PrivateSchool\\Dto\\TeacherDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:56:08.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SubjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\SubjectDto.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Dto\\SubjectDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\SubjectDto.cs",
+              "RelativeToolTip": "PrivateSchool\\Dto\\SubjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:55:54.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Dto\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\PaymentDto.cs",
+              "RelativeToolTip": "PrivateSchool\\Dto\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:55:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnrollmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\EnrollmentDto.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Dto\\EnrollmentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\EnrollmentDto.cs",
+              "RelativeToolTip": "PrivateSchool\\Dto\\EnrollmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:55:18.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Dto\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "PrivateSchool\\Dto\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:55:03.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BoardOfDirectoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\BoardOfDirectoryDto.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Dto\\BoardOfDirectoryDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\BoardOfDirectoryDto.cs",
+              "RelativeToolTip": "PrivateSchool\\Dto\\BoardOfDirectoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:52:45.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ParentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\ParentDto.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Dto\\ParentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\ParentDto.cs",
+              "RelativeToolTip": "PrivateSchool\\Dto\\ParentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:00:34.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Dto\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "PrivateSchool\\Dto\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T01:04:11.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241018003507_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241018003507_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241018003507_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241018003507_InitialCreate2.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241018003507_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T00:35:07.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Payment.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\Payment.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Payment.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:58:22.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Teacher.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\Teacher.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Teacher.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\Teacher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:58:04.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Subject.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\Subject.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Subject.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:56:45.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Enrollment.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Enrollment.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:56:10.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Parent.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\Parent.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Parent.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\Parent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:54:59.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241020130222_Payments.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130222_Payments.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Migrations\\20241020130222_Payments.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Migrations\\20241020130222_Payments.cs",
+              "RelativeToolTip": "PrivateSchool\\Migrations\\20241020130222_Payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:02:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoardOfDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\BoardOfDirectory.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\BoardOfDirectory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\BoardOfDirectory.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\BoardOfDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:54:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Student.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Student.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:54:20.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\Employee.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:54:07.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PrivateSchool\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:02:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\appsettings.json",
+              "RelativeDocumentMoniker": "PrivateSchool\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\appsettings.json",
+              "RelativeToolTip": "PrivateSchool\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T16:55:20.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Program.cs",
+              "RelativeDocumentMoniker": "PrivateSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\PrivateSchool\\PrivateSchool\\Program.cs",
+              "RelativeToolTip": "PrivateSchool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:55:01.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
